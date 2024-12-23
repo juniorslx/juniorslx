@@ -21,7 +21,7 @@ I'm Quality Assurance Engineer. 📚
 ## 🛠️  Tools and Languages
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cypress,playwright&titles=true,git&theme=light)
 [![My Skills](https://skillicons.dev/icons?i=selenium,postman,jenkins,mysql,nodejs,github,githubactions,git&theme=light )](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,cs&theme=light )](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js&theme=light )](https://skillicons.dev)  
 
 </div>
 
