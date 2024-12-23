@@ -1,31 +1,34 @@
-# Hi there, I'm Junior! 👋
+### Hi 👋 I'm Wellington Junior!
 
-![Profile Views](https://komarev.com/ghpvc/?username=juniorslx&color=blue)
+I'm Quality Assurance Engineer. 📚
 
-## About Me
+- 🌱 I'm always in constant learning.
+- 📫 How to reach me: juniorslx77@gmail.com
 
-- 🌱 I’m currently learning advanced Python and machine learning
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with improving my data visualization skills
-- 💬 Ask me about web development and data analysis
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
-- ⚡ Fun fact: I'm a big fan of sci-fi novels and hiking
+##
+    
+<div> 
+    <a href="https://github.com/juniorslx">
+      <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=juniorslx&show_icons=true&theme=dark" />
+    </a>
+    <a href="https://github.com/juniorslx/convoychat">
+      <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juniorslx&layout=compact&langs_count=8&card_width=320&theme=dark" />
+    </a>
+</div>
 
-## Skills
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## GitHub Stats
+## 🛠️  Tools and Languages
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cypress,playwright&titles=true,git&theme=light)
+[![My Skills](https://skillicons.dev/icons?i=selenium,,postman,jenkins,mysql,nodejs,github,githubactions,git&theme=light )](https://skillicons.dev)
 
-![Junior's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorslx&show_icons=true&theme=radical)
+[![My Skills](https://skillicons.dev/icons?i=js,py,java,cs,dotnet&theme=light )](https://skillicons.dev)  
 
-## Top Languages
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorslx&layout=compact&theme=radical)
 
-## Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wjuniorslx)
+## 🌐 Connect with me
+<div>
+  <a href="mailto:juniorslx77@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-404040?style=for-the-badge&logo=gmail&logoColor=red"></a>
+  <a href="https://www.linkedin.com/in/wjuniorslx/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
