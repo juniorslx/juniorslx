@@ -1,6 +1,6 @@
 ### Sobre mim
 
-- Estudante de Qualidade de Software e Automação de Testes
+- Estudante de Qualidade de Software
 
 
 ##
